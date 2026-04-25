@@ -130,3 +130,4 @@ SATELLITE IMAGERY/
 git clone <your-repo-link>
 cd your-project-folder
 pip install -r requirements.txt
+streamlit run app.py
